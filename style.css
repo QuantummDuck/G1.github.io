@@ -75,6 +75,14 @@ body {
     align-items: center;
 }
 
+.search-box input {
+    background: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    width: 100px;
+}
+
 .content {
     max-width: 800px;
     margin: 0 auto;
